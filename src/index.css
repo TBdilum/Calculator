@@ -25,7 +25,7 @@ body{
 }
 
 .calculator-grid :hover,:focus{
-    background-color: hsla(0, 0%, 100%, 0.865);
+    background-color: hsla(0, 0%, 0%, 0.515);
 }
 
 .span-two{
@@ -34,7 +34,7 @@ body{
 
 .output{
     grid-column: 1 / -1;
-    background-color: rgba(0, 0, 0, 0.472);
+    background-color: rgba(6, 6, 6, 0.626);
     display: flex;
     flex-direction: column;
     align-items: flex-end;
